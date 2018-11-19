@@ -1,0 +1,19 @@
+{
+  "pages": [
+    "pages/index/index",
+    "pages/member/login/login",
+    "pages/member/register/register",
+    "pages/exam/bigType/bigType",
+    "pages/exam/type/type",
+    "pages/exam/do/do",
+    "pages/article/articleList/articleList",
+    "pages/article/articleDetail/articleDetail",
+    "pages/friend/friend/friend"
+  ],
+  "window": {
+    "backgroundTextStyle": "light",
+    "navigationBarBackgroundColor": "#fff",
+    "navigationBarTitleText": "开窍帮",
+    "navigationBarTextStyle": "black"
+  }
+}
